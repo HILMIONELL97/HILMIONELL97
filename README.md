@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning MERN Stack
 - ⚡ Fun fact: I love Sport, Travling and Coding !
-  <img align="right" src="./MERN-Stack.png" alt="MERN-Stack" width=450px height=500px/>
+  <img align="right" src="./MERN-Stack.png" alt="MERN-Stack" width=450px height=300px/>
 
 ---
 
